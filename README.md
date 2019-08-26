@@ -12,5 +12,5 @@ https://github.com/sozykin/dlpython_course
 
 # Изучаем TensorFlow Tutorial
 
-[Знакомимся с переобучением и недообучением](https://github.com/prog815/lernDLpython/blob/master/tutorials_keras_overfit_and_underfit.ipynb) 26.08.2019
+[Знакомимся с переобучением и недообучением](tutorials_keras_overfit_and_underfit.ipynb) 26.08.2019
 
