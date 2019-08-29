@@ -16,6 +16,8 @@
 
 [распознавание_одежды](https://colab.research.google.com/github/prog815/lernDLpython/blob/master/%D1%80%D0%B0%D1%81%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BE%D0%B4%D0%B5%D0%B6%D0%B4%D1%8B.ipynb)
 
+---
+
 # Изучаем TensorFlow Tutorial
 
 [Сохранение и загрузка моделей](https://colab.research.google.com/github/prog815/lernDLpython/blob/master/save_and_restore_models.ipynb) [28.08.2019]
