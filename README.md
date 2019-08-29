@@ -8,6 +8,8 @@
 
 
 
+[Предсказание стоимости недвижимости. (регрессия)](https://colab.research.google.com/github/prog815/lernDLpython/blob/master/regression_example_boston_housing.ipynb) [23.08.2019]
+
 [Пример распознавания собственного изображения](https://colab.research.google.com/github/prog815/lernDLpython/blob/master/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80_%D1%80%D0%B0%D1%81%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.ipynb) [16.08.2019]
 
 [Анализ качества работы нейронной сети для распознавания моделей одежды в Keras](https://colab.research.google.com/github/prog815/lernDLpython/blob/master/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B_%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9_%D1%81%D0%B5%D1%82%D0%B8.ipynb) [15.08.2019]
@@ -23,6 +25,8 @@
 [Сохранение и загрузка моделей](https://colab.research.google.com/github/prog815/lernDLpython/blob/master/save_and_restore_models.ipynb) [28.08.2019]
 
 [Знакомимся с переобучением и недообучением](https://colab.research.google.com/github/prog815/lernDLpython/blob/master/tutorials_keras_overfit_and_underfit.ipynb) [26.08.2019]
+
+[предсказание расхода топлива (регрессия)](https://colab.research.google.com/github/prog815/lernDLpython/blob/master/basic_regression.ipynb) [19.08.2019]
 
 [Get Started with TensorFlow](https://colab.research.google.com/github/prog815/lernDLpython/blob/master/%D1%83%D1%87%D0%B8%D0%BC_%D1%80%D0%B0%D1%81%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D1%82%D1%8C_%D1%86%D0%B8%D1%84%D1%80%D1%8B_(mnist).ipynb)
 
